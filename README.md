@@ -1,0 +1,2 @@
+# Farmland_Detection_and_Segmentation
+All Algorithms
